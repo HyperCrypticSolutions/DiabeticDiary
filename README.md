@@ -1,5 +1,6 @@
 # DiabeticDiary
-Diabetes Monitor Application
+
+## Diabetes Monitor Application
 
 Aim of this Android application is to substitute the outdated paper based system for diabetics.
 
@@ -12,4 +13,4 @@ Patients can easily
   
 
 
-Copyright © 2016 HyperCryptic Solutions, LLC. All rights reserved.
+##### Copyright © 2016 HyperCryptic Solutions, LLC. All rights reserved.
